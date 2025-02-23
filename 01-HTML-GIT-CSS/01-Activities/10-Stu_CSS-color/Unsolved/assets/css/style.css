@@ -3,18 +3,24 @@
     height: 100px;
   }
   
-.section-blue {
-
-}
-  
 .container {
-
+background-color: black;
 }
 
 #section-1 {
+  background-color: purple;
+  color: yellow;
+}
 
+#section-2, #section-3{
+  background-color: blue;
+  color: orange;
+}
+
+#section-4, #section-5{
+  color: white;
 }
 
 #section-6 {
-
+color: yellow;
 }
