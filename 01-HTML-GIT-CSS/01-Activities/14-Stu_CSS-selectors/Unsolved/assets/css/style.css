@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* This determines the font of every element using the global selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* This makes the body, (or the page) lemon chiffon */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* This finds each element with the class .highlighted-text and makes it bolder. */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* This id tag will create a specific color for the section */
 #contact-section {
   background-color: #f0ead6;
 }
